@@ -17,5 +17,6 @@ multi pipe {
         steps{  
         echo 'deploy stage'
         }
+      }
     }
 }
